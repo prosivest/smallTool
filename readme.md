@@ -1,18 +1,13 @@
-1.学习git
+# smallTool项目
+使用`python&QT` 将日常工作所用的小工具进行整合。
+
+正在进行：
+* 界面搭建，使用QT进行。
 
 
 
 
 
-```
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-```
 
 
 
-
-
-测试测试
-
-pycharm设置
