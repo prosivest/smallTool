@@ -15,3 +15,4 @@ Git is free software distributed under the GPL.
 
 测试测试
 
+pycharm设置
